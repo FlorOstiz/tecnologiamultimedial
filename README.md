@@ -1,5 +1,5 @@
 # tecnologiamultimedial
-TE MANDE EL PRIMER FLUJO COMO "tp3."
+TE MANDE EL PRIMER FLUJO COMO "tp3..pdf" Y EL QUE TIENE LAS CORRECCIONES COMO "tp3.pdf"
 
 1 escena: Roja va a lo de su abuelita a visitarle, para llevarle el libro de recetas secreto y comida. Se encuentra un conejo lastimado, ella lo ayuda y el conejo en agradecimiento la quiere acompañar, decide si lo acompaña o no. 
 
